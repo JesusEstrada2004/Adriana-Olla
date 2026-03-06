@@ -1,13 +1,12 @@
-⚖️ Legal Staff — Sitio Web de Asesoramiento Legal
+⚖️ Guia Legal — Sitio Web de Asesoramiento Legal
 
 Sitio web profesional desarrollado con **Astro**, diseñado para un estudio jurídico moderno.  
-El proyecto cuenta con tres secciones principales: **Inicio**, **Sobre Nosotros** y **Blog**, ofreciendo una navegación fluida, diseño responsive y un enfoque claro en la presentación de servicios legales.
+El proyecto cuenta con cuatro secciones principales: **Inicio**, **Sobre Nosotros**, **Citas** y **Blog**, ofreciendo una navegación fluida, diseño responsive y un enfoque claro en la presentación de servicios legales.
 
 ---
 
 ## 🌐 Demo en Producción
 
-🔗 [Ver sitio desplegado en Vercel](https://legal-staff.vercel.app/)
 
 ---
 
@@ -40,7 +39,7 @@ El proyecto cuenta con tres secciones principales: **Inicio**, **Sobre Nosotros*
 
 - **Astro** — Framework principal para la construcción del sitio
 - **TailwindCSS** — Estilos responsivos y diseño moderno
-- **Vercel** — Hosting y despliegue continuo
+- **Netlify** — Hosting y despliegue continuo
 - **Markdown / MDX** — Estructura de los artículos del blog
 - **JavaScript / TypeScript (opcional)** — Lógica ligera de interacción
 
@@ -50,7 +49,7 @@ El proyecto cuenta con tres secciones principales: **Inicio**, **Sobre Nosotros*
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/rolandoandrad3/GuiaLegal.net.git
 
 # Entrar al directorio del proyecto
 cd tu-repositorio
